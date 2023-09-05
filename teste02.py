@@ -46,6 +46,3 @@ else:
             print("Você votou nulo!")
         case _:
             print("O numero digitado não é valido, foi anulado!")
-
-
-
